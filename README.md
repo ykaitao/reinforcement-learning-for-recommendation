@@ -1,5 +1,10 @@
 # reinforcement-learning-for-recommendation
 
+```bash
+>>> source .venv/bin/activate # activate virtual environment
+>>> pip install -r requirements.txt # install required packages
+```
+
 ## Markov decision process
 A Markov decision process is a 4-tuple ${\displaystyle (S,A,P_{a},R_{a})}$, where:
 
